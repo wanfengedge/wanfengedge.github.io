@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://wanfengedge.github.io/sitemap.xml
+Sitemap: https://studyboot.com/sitemap.xml
