@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://wanfengedge.github.io/"
+baseURL = "https://studyboot.com/"
 title = "晚风的博客"
 enableRobotsTXT = true
 enableEmoji = true
