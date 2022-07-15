@@ -8,15 +8,6 @@
     <language>zh-CN</language>
     <lastBuildDate>Wed, 08 Jun 2022 21:12:52 +0800</lastBuildDate><atom:link href="https://studyboot.com/categories/%E7%A4%BA%E4%BE%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>欢迎加入 Hugo NexT 组织！</title>
-      <link>https://studyboot.com/posts/external-link/</link>
-      <pubDate>Wed, 01 Jun 2022 15:59:41 +0800</pubDate>
-      
-      <guid>https://studyboot.com/posts/external-link/</guid>
-      <description>欢迎来到 Hugo NexT 文档站点！ 它是从 Theme NexT 移植过来的为 Hugo 打造的高品质优雅主题，保持简单易用的特性和强大的功能。 用户指南 设置 NexT 主题很容易。只需遵循文档，</description>
-    </item>
-    
-    <item>
       <title>文章目录导航</title>
       <link>https://studyboot.com/post/table-of-content.html</link>
       <pubDate>Wed, 08 Jun 2022 21:12:52 +0800</pubDate>
@@ -70,6 +61,15 @@
       
       <guid>https://studyboot.com/post/markdown-syntax.html</guid>
       <description>&lt;p&gt;仅以此篇文章来测试下在 &lt;code&gt;NexT&lt;/code&gt; 主题中在通过 &lt;code&gt;Hugo&lt;/code&gt; 引擎来建站时，是否支持 &lt;code&gt;Markdown&lt;/code&gt; 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>欢迎加入 Hugo NexT 组织！</title>
+      <link>https://studyboot.com/posts/external-link/</link>
+      <pubDate>Wed, 01 Jun 2022 15:59:41 +0800</pubDate>
+      
+      <guid>https://studyboot.com/posts/external-link/</guid>
+      <description>欢迎来到 Hugo NexT 文档站点！ 它是从 Theme NexT 移植过来的为 Hugo 打造的高品质优雅主题，保持简单易用的特性和强大的功能。 用户指南 设置 NexT 主题很容易。只需遵循文档，</description>
     </item>
     
   </channel>

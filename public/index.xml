@@ -6,30 +6,14 @@
     <description>Recent content on 晚风的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jun 2022 21:12:52 +0800</lastBuildDate><atom:link href="https://studyboot.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jul 2022 16:04:40 +0800</lastBuildDate><atom:link href="https://studyboot.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>欢迎加入 Hugo NexT 组织！</title>
-      <link>https://studyboot.com/posts/external-link/</link>
-      <pubDate>Wed, 01 Jun 2022 15:59:41 +0800</pubDate>
+      <title>Gitattributes作用详细讲解</title>
+      <link>https://studyboot.com/gitattributes%E4%BD%9C%E7%94%A8%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3.html</link>
+      <pubDate>Fri, 15 Jul 2022 16:04:40 +0800</pubDate>
       
-      <guid>https://studyboot.com/posts/external-link/</guid>
-      <description>欢迎来到 Hugo NexT 文档站点！ 它是从 Theme NexT 移植过来的为 Hugo 打造的高品质优雅主题，保持简单易用的特性和强大的功能。 用户指南 设置 NexT 主题很容易。只需遵循文档，</description>
-    </item>
-    
-    <item>
-      <title>世界，你好！</title>
-      <link>https://studyboot.com/post/hello-world.html</link>
-      <pubDate>Thu, 02 Jun 2022 11:52:03 +0800</pubDate>
-      
-      <guid>https://studyboot.com/post/hello-world.html</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;“使用 &lt;code&gt;weight&lt;/code&gt; 关键字置顶文章。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://gohugo.io/&#34; title=&#34;Hugo&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34; class=&#34; exturl&#34;&gt;
-    Hugo
-    &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
-&lt;/a&gt; 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p&gt;</description>
+      <guid>https://studyboot.com/gitattributes%E4%BD%9C%E7%94%A8%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3.html</guid>
+      <description>.gitattributes介绍 .gitattributes 是一个文本文件，文件中的一行定义一个路径的若干个属性，主要用于定义每种文件的属性，以方便 git 帮我们统一管理。</description>
     </item>
     
     <item>
@@ -95,6 +79,31 @@
       
       <guid>https://studyboot.com/post/markdown-syntax.html</guid>
       <description>&lt;p&gt;仅以此篇文章来测试下在 &lt;code&gt;NexT&lt;/code&gt; 主题中在通过 &lt;code&gt;Hugo&lt;/code&gt; 引擎来建站时，是否支持 &lt;code&gt;Markdown&lt;/code&gt; 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>世界，你好！</title>
+      <link>https://studyboot.com/post/hello-world.html</link>
+      <pubDate>Thu, 02 Jun 2022 11:52:03 +0800</pubDate>
+      
+      <guid>https://studyboot.com/post/hello-world.html</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“使用 &lt;code&gt;weight&lt;/code&gt; 关键字置顶文章。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://gohugo.io/&#34; title=&#34;Hugo&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34; class=&#34; exturl&#34;&gt;
+    Hugo
+    &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
+&lt;/a&gt; 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>欢迎加入 Hugo NexT 组织！</title>
+      <link>https://studyboot.com/posts/external-link/</link>
+      <pubDate>Wed, 01 Jun 2022 15:59:41 +0800</pubDate>
+      
+      <guid>https://studyboot.com/posts/external-link/</guid>
+      <description>欢迎来到 Hugo NexT 文档站点！ 它是从 Theme NexT 移植过来的为 Hugo 打造的高品质优雅主题，保持简单易用的特性和强大的功能。 用户指南 设置 NexT 主题很容易。只需遵循文档，</description>
     </item>
     
   </channel>

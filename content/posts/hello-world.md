@@ -12,7 +12,7 @@ tags:
  - 开始
 
 url: post/hello-world.html
-weight: 2
+#weight: 2
 ---
 
 > “使用 `weight` 关键字置顶文章。”
