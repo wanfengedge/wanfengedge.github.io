@@ -849,12 +849,12 @@ params:
   # Statistics and Analytics
   # ---------------------------------------------------------------
 
-  #analytics:
+  analytics:
     # 51La 站点统计
     # 更多信息请参考：https://invite.51.la/1NUfGTS1?target=V6
     # 51La Analytics
     # See: https://invite.51.la/1NUfGTS1?target=V6 
-    # laId: #<anaytics_id>  
+    laId: JkgcWZA2ndqd5DIU  
 
   # TODO
   # Show Views / Visitors of the website / page with busuanzi.
