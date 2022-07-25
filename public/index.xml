@@ -13,97 +13,34 @@
       <pubDate>Fri, 15 Jul 2022 16:04:40 +0800</pubDate>
       
       <guid>https://studyboot.com/gitattributes%E4%BD%9C%E7%94%A8%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3.html</guid>
-      <description>.gitattributes介绍 .gitattributes 是一个文本文件，文件中的一行定义一个路径的若干个属性，主要用于定义每种文件的属性，以方便 git 帮我们统一管理。</description>
+      <description>.gitattributes介绍 .gitattributes 是一个文本文件，文件中的一行定义一个路径的若干个属性，主要用于定义每种文件的属性，以方便 git 帮我们统一管理。 .gitattributes 文件格式如下 1 要匹配的文件模式 属性1 属性2 ... 在.gitattributes文件的一行中，一个属性（以text属性为例）可能有4种状态： 设置</description>
     </item>
     
     <item>
-      <title>关于 Hugo NexT 组织</title>
-      <link>https://studyboot.com/about.html</link>
-      <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
+      <title>关于我</title>
+      <link>https://studyboot.com/about/</link>
+      <pubDate>Sun, 10 Mar 2019 00:13:27 +0000</pubDate>
       
-      <guid>https://studyboot.com/about.html</guid>
-      <description>Hugo NexT 组织是由众多喜爱 NexT 主题及风格的世界各地友人共同组建而成，为的就是让这个主题继续在 Hugo 引擎中也能得到发扬光大，在此也欢迎你的加入！ 我们的愿景</description>
+      <guid>https://studyboot.com/about/</guid>
+      <description>Java助攻师，现负责技术管理</description>
     </item>
     
     <item>
-      <title>文章目录导航</title>
-      <link>https://studyboot.com/post/table-of-content.html</link>
-      <pubDate>Wed, 08 Jun 2022 21:12:52 +0800</pubDate>
+      <title>归档</title>
+      <link>https://studyboot.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://studyboot.com/post/table-of-content.html</guid>
-      <description>&lt;p&gt;巴顿将军说过：“衡量一个人是否成功，不是看他站到顶峰，而是从顶峰跌落之后的反弹力”，褚时健的人生便是如此，中年发家致富，名利双收，之后又跌落到谷底，等到74岁再创业，10年后带着褚橙归来，东山再起收获亿万财富，他的发展轨迹就是反弹的过程。&lt;/p&gt;</description>
+      <guid>https://studyboot.com/archives/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hugo 内置的 Chroma 语法高亮</title>
-      <link>https://studyboot.com/post/syntax-highlighting.html</link>
-      <pubDate>Tue, 07 Jun 2022 19:09:52 +0800</pubDate>
+      <title>搜索</title>
+      <link>https://studyboot.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://studyboot.com/post/syntax-highlighting.html</guid>
-      <description>&lt;p&gt;Hugo 通过 Chroma 提供非常快速的语法高亮显示，现 Hugo 中使用 Chroma 作为代码块高亮支持，它内置在 Go 语言当中，速度是真的非常、非常快，而且最为重要的是它也兼容之前我们使用的 Pygments 方式。&lt;/p&gt;
-&lt;p&gt;以下通过 Hugo 内置短代码 &lt;code&gt;highlight&lt;/code&gt; 和 &lt;code&gt;Markdown&lt;/code&gt; 代码块方式分别验证不同语言的代码块渲染效果并能正确高亮显示，有关优化语法突出显示的更多信息，请参阅 
-&lt;a href=&#34;https://gohugo.io/getting-started/configuration-markup#highlight&#34; title=&#34;Hugo 文档&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34; class=&#34; exturl&#34;&gt;
-    Hugo 文档
-    &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
-&lt;/a&gt;。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>支持 Emoji 表情</title>
-      <link>https://studyboot.com/post/emoji-support.html</link>
-      <pubDate>Sat, 04 Jun 2022 19:46:45 +0800</pubDate>
-      
-      <guid>https://studyboot.com/post/emoji-support.html</guid>
-      <description>&lt;p&gt;Emoji 可以通过多种方式在 Hugo 项目中启用。&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://gohugo.io/functions/emojify/&#34; title=&#34;&amp;lt;code&amp;gt;emojify&amp;lt;/code&amp;gt;&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34; class=&#34; exturl&#34;&gt;
-    &lt;code&gt;emojify&lt;/code&gt;
-    &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
-&lt;/a&gt; 方法可以直接在模板中调用, 或者使用
-&lt;a href=&#34;https://gohugo.io/templates/shortcode-templates#inline-shortcodes&#34; title=&#34;行内 Shortcodes&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34; class=&#34; exturl&#34;&gt;
-    行内 Shortcodes
-    &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
-&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;要全局使用 emoji, 需要在你的
-&lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34; title=&#34;网站配置&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34; class=&#34; exturl&#34;&gt;
-    网站配置
-    &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
-&lt;/a&gt;中设置 &lt;code&gt;enableEmoji&lt;/code&gt; 为 &lt;code&gt;true&lt;/code&gt;，
-然后你就可以直接在文章中输入 emoji 的代码。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown 语法支持</title>
-      <link>https://studyboot.com/post/markdown-syntax.html</link>
-      <pubDate>Fri, 03 Jun 2022 11:52:18 +0800</pubDate>
-      
-      <guid>https://studyboot.com/post/markdown-syntax.html</guid>
-      <description>&lt;p&gt;仅以此篇文章来测试下在 &lt;code&gt;NexT&lt;/code&gt; 主题中在通过 &lt;code&gt;Hugo&lt;/code&gt; 引擎来建站时，是否支持 &lt;code&gt;Markdown&lt;/code&gt; 文件内容中所写的各种语法，并展示下实际的效果。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>世界，你好！</title>
-      <link>https://studyboot.com/post/hello-world.html</link>
-      <pubDate>Thu, 02 Jun 2022 11:52:03 +0800</pubDate>
-      
-      <guid>https://studyboot.com/post/hello-world.html</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;“使用 &lt;code&gt;weight&lt;/code&gt; 关键字置顶文章。”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://gohugo.io/&#34; title=&#34;Hugo&#34; rel=&#34;noopener external nofollow noreferrer&#34; target=&#34;_blank&#34; class=&#34; exturl&#34;&gt;
-    Hugo
-    &lt;i class=&#34;fa fa-external-link-alt&#34;&gt;&lt;/i&gt;
-&lt;/a&gt; 是现今世界上最快的网站建设框架，也是最流行的开源静态站点生成器之一。 凭借其惊人的速度和灵活性，Hugo 让建设网站再次变得有趣起来。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>欢迎加入 Hugo NexT 组织！</title>
-      <link>https://studyboot.com/posts/external-link/</link>
-      <pubDate>Wed, 01 Jun 2022 15:59:41 +0800</pubDate>
-      
-      <guid>https://studyboot.com/posts/external-link/</guid>
-      <description>欢迎来到 Hugo NexT 文档站点！ 它是从 Theme NexT 移植过来的为 Hugo 打造的高品质优雅主题，保持简单易用的特性和强大的功能。 用户指南 设置 NexT 主题很容易。只需遵循文档，</description>
+      <guid>https://studyboot.com/search/</guid>
+      <description></description>
     </item>
     
   </channel>
