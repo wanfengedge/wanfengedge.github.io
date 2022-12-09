@@ -1,5 +1,5 @@
 +++
-title='Gitattributes作用详细讲解'
+title='Gitattributes文件作用详细讲解'
 tags=["git"]
 categories=["git"]
 date="2022-12-09T10:10:13+08:00"
@@ -7,7 +7,6 @@ toc=true
 draft=true
 hiddenFromHomePage= false
 +++
-
 
 ## .gitattributes 文件中可以定义的属性
 
