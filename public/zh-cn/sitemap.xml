@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://studyboot.com/categories/</loc><lastmod>2022-12-09T10:29:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://studyboot.com/categories/</loc><lastmod>2022-12-09T10:52:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://studyboot.com/en/categories/"
@@ -11,7 +11,10 @@
                     hreflang="zh-cn"
                     href="https://studyboot.com/categories/"
                     /></url><url>
-            <loc>https://studyboot.com/posts/</loc><lastmod>2022-12-09T10:29:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://studyboot.com/tags/git/</loc><lastmod>2022-12-09T10:52:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://studyboot.com/categories/git/</loc><lastmod>2022-12-09T10:52:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://studyboot.com/gitattributes%E6%96%87%E4%BB%B6%E4%BD%9C%E7%94%A8%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3/</loc><lastmod>2022-12-09T10:52:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://studyboot.com/posts/</loc><lastmod>2022-12-09T10:52:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://studyboot.com/en/posts/"
@@ -20,7 +23,7 @@
                     hreflang="zh-cn"
                     href="https://studyboot.com/posts/"
                     /></url><url>
-            <loc>https://studyboot.com/tags/</loc><lastmod>2022-12-09T10:29:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://studyboot.com/tags/</loc><lastmod>2022-12-09T10:52:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://studyboot.com/en/tags/"
@@ -29,7 +32,7 @@
                     hreflang="zh-cn"
                     href="https://studyboot.com/tags/"
                     /></url><url>
-            <loc>https://studyboot.com/</loc><lastmod>2022-12-09T10:29:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://studyboot.com/</loc><lastmod>2022-12-09T10:52:23&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://studyboot.com/en/"
