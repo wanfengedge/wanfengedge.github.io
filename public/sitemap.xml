@@ -1,33 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://studyboot.com/categories/</loc>
-    <lastmod>2022-07-15T16:04:40+08:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/tags/git/</loc>
-    <lastmod>2022-07-15T16:04:40+08:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/categories/git/</loc>
-    <lastmod>2022-07-15T16:04:40+08:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/gitattributes%E4%BD%9C%E7%94%A8%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3.html</loc>
-    <lastmod>2022-07-15T16:04:40+08:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/post/</loc>
-    <lastmod>2022-07-15T16:04:40+08:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/tags/</loc>
-    <lastmod>2022-07-15T16:04:40+08:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/</loc>
-    <lastmod>2022-07-15T16:04:40+08:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/about/</loc>
-    <lastmod>2019-03-10T00:13:27+00:00</lastmod>
-  </url><url>
-    <loc>https://studyboot.com/archives/</loc>
-  </url><url>
-    <loc>https://studyboot.com/search/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://studyboot.com/en/sitemap.xml</loc>
+    
+      <lastmod>2020-06-12T10:10:13+03:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://studyboot.com/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2020-06-12T10:10:13+03:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
